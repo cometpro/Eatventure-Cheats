@@ -124,7 +124,7 @@ The 💎 floating button sits in the top-left corner and toggles the panel.
 
 ## ⚠️ Disclaimer
 
-This tool was developed as a **proof-of-concept** for the game owner to demonstrate client-side vulnerabilities. It is not intended for use on live accounts or distribution to players. The repacked APK will not pass Play Integrity checks and cannot access Google Play services.
+This tool was developed as a **proof-of-concept** for modifying offline games. It is not intended for use on live accounts or distribution to players. The repacked APK will not pass Play Integrity checks and cannot access Google Play services.
 
 ---
 
